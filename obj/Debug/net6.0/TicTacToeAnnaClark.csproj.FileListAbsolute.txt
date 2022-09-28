@@ -1,0 +1,15 @@
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\bin\Debug\net6.0\TicTacToeAnnaClark.exe
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\bin\Debug\net6.0\TicTacToeAnnaClark.deps.json
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\bin\Debug\net6.0\TicTacToeAnnaClark.runtimeconfig.json
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\bin\Debug\net6.0\TicTacToeAnnaClark.dll
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\bin\Debug\net6.0\TicTacToeAnnaClark.pdb
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\obj\Debug\net6.0\TicTacToeAnnaClark.csproj.AssemblyReference.cache
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\obj\Debug\net6.0\TicTacToeAnnaClark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\obj\Debug\net6.0\TicTacToeAnnaClark.AssemblyInfoInputs.cache
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\obj\Debug\net6.0\TicTacToeAnnaClark.AssemblyInfo.cs
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\obj\Debug\net6.0\TicTacToeAnnaClark.csproj.CoreCompileInputs.cache
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\obj\Debug\net6.0\TicTacToeAnnaClark.dll
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\obj\Debug\net6.0\refint\TicTacToeAnnaClark.dll
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\obj\Debug\net6.0\TicTacToeAnnaClark.pdb
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\obj\Debug\net6.0\TicTacToeAnnaClark.genruntimeconfig.cache
+C:\Users\anna\OneDrive\Repos\Practice\TicTacToe\TicTacToeAnnaClark\obj\Debug\net6.0\ref\TicTacToeAnnaClark.dll
